@@ -1,0 +1,15 @@
+{
+	"name": "apollo-client",
+	"description": "Apollo-client externs and tools",
+	"classPath": "src",
+	"url": "https://github.com/Randonee/haxe-apollo-client",
+	"contributors": [
+		"randonee"
+	],
+	"version": "0.0.1",
+	"tags": [
+		"apollo",
+		"graphql"
+	],
+	"license": "MIT"
+}
